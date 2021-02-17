@@ -22,6 +22,7 @@ const conexion=mysql.createConnection({
 
 conexion.connect((error)=>{
     if(error){
+        console.log('ERROR:NO SE PUDO CONECTAR CON LA BASE DE DATOS.')
         throw error;
     }
     console.log('Conexion con la base de datos mysql establecida')

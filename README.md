@@ -7,8 +7,8 @@
 3. Para instalar ejecutar en la consola: `npm install`
 4. Para iniciar la aplicación: `npm start`
 5. Para acceder al formulario: [localhost:3000](http://localhost:3000)
-6. Para consultar los usuarios en base de datos: [localhost:3000/usuarios](http://localhost:3000/usuarios)
-6. Para consultar los datos de un usuario en particular: [localhost:3000/usuarios/nombre](http://localhost:3000/usuarios/nombre)
+6. Para consultar todos los usarios registrados en la base de datos: [localhost:3000/usuarios](http://localhost:3000/usuarios)
+6. Para consultar los datos de un usuario en particular: [localhost:3000/usuarios/nombre](http://localhost:3000/usuarios/{nombre de usuario})
 
 
 
