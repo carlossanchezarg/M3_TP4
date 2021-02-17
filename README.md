@@ -1,5 +1,5 @@
 # M3-TP4:Recepcion y validacion de formularios. 
-## Conexion con base de datos y carga/lectura/modificacion de registros usando nodejs y express.
+## Conexion con base de datos(MySQL) y carga/lectura/modificacion de registros usando nodejs y express.
 
 ### Para instalar la aplicación:
 1. Descargar en un zip el repositorio y extraer.
